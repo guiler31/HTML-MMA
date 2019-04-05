@@ -1,0 +1,16 @@
+body {
+    background-color:rgb(98, 211, 208);
+}
+
+p.foto  {
+    text-align: center;
+}
+p.llueve  {
+  text-align: center;
+    font-family: arial;
+    font-size: 150%
+}
+
+h2.info  {
+    color:rgb(80, 72, 72);
+}
